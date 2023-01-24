@@ -1,7 +1,6 @@
 # Project-E-Commerce-Application
 
 This project has been done towards partial fulfilment of requirements for the course CS F213 – Object Oriented Programming in the odd semester AY 2022-23.
-We can registers users, categories, products, manages orders.
 
 ## Team Members
 
